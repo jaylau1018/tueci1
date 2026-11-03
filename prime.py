@@ -1,6 +1,5 @@
 # prime.py 
 import math
-# 在文件中添加一行注释：
 # this function determines whether the number is a prime number
 def is_prime(number):
     if number < 2:
